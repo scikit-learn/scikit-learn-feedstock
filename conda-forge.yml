@@ -7,5 +7,7 @@ appveyor:
 
 
 channels:
+  sources:
+  - [conda-forge]
   targets:
   - [scikit-learn, rc]
