@@ -70,8 +70,8 @@ Terminology
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/scikit-learn-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/scikit-learn-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/scikit-learn-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/scikit-learn-feedstock)
+Linux: [![Circle CI](https://circleci.com/gh/scikit-learn/scikit-learn-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/scikit-learn-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/scikit-learn/scikit-learn-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/scikit-learn-feedstock)
 Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
 
 Current release info
